@@ -6,7 +6,7 @@ Este projeto realiza a análise de dados de chegadas de turistas internacionais 
 
 - `planilhas-base/` — planilhas originais com os dados anuais de turistas  
 - `sql/` — scripts SQL para criação, transformação, validação e análises  
-- `sql/analise/` — consultas SQL divididas por tema: análise temporal, origem, pontos de chegada e cia de acesso  
+- `sql/analise/` — consultas SQL divididas por tema: análise temporal, origem, pontos de chegada e via de acesso  
 - `tabelas-para-graficos/` — arquivos CSV exportados das consultas para importação no Excel  
 - `graficos.xlsx` — arquivo Excel com os gráficos elaborados  
 - `gifs/` — arquivos GIF mostrando gráficos criados (2 arquivos)
